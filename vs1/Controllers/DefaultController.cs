@@ -11,7 +11,7 @@ namespace vs1.Controllers
   // GET: Default
   public ActionResult Index()
   {
-   var ss;
+   var sss;
    return View();
   }
  }
