@@ -12,6 +12,7 @@ namespace vs1.Controllers
   public ActionResult Index()
   {
    var sss;
+   var x;
    return View();
   }
  }
